@@ -1,0 +1,9 @@
+:root{
+    --black: #010101;
+    --purple: #5B3D8F;
+    --yellow: #F9C949;
+    --brown: #7B705E;
+    --sand: #ECD0A8;
+    --box-shadow: -3px 3px 6px var(--yellow);
+}
+
